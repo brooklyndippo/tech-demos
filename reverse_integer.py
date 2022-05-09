@@ -38,4 +38,11 @@ def reverse_integer(num):
     return(int(solution))
 
 
+
+reverse_integer('592')
+
+reverse_integer('1099')
+
+reverse_integer('-123')
+
 reverse_integer('2a5')
